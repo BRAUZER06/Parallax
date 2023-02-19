@@ -1,8 +1,8 @@
 
 # Parallax
 ## Ссылка на gitPage:
-## https://brauzer06.github.io/React_Move/
-<br>
+## https://brauzer06.github.io/Parallax/
+<br> 
 
 # Воссоздание parallax с помощью 
 transform: translate3d()
