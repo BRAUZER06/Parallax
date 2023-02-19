@@ -8,6 +8,4 @@
 transform: translate3d()
 
 ## Фотографии проекта:
-#  <hr>
-![](https://i.ibb.co/yszTmh2/11111.jpeg) <br> </br>
-#  <hr>
+![](https://i.ibb.co/JWZqMVF/11111.jpg)
